@@ -1,8 +1,8 @@
 const baseURL= 
-" https://open.er-api.com/v6/latest/USD";
+// " https://open.er-api.com/v6/latest/USD";
 // "https://v6.exchangerate-api.com/v6/YOUR_API_KEY/pair";
 // "https://currencyconv.p.rapidapi.com/currency_conversion ";
-// "https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies";
+"https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies";
 
 const dropdowns=document.querySelectorAll(".dropdown select ");
 const btn=document.querySelector(".btnFrm");
